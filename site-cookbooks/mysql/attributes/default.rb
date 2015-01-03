@@ -1,0 +1,1 @@
+default['mysql']['remote_url'] = "http://repo.mysql.com/mysql-community-release-el6-5.noarch.rpm"
