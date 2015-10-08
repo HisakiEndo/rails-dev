@@ -5,6 +5,7 @@ package "zlib-devel"
 package "readline-devel"
 package "libxml2-devel"
 package "libxslt-devel"
+package "ImageMagick"
 
 git "/home/#{node['ruby']['user']}/.rbenv" do
   action :sync
